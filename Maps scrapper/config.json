@@ -1,0 +1,27 @@
+{
+  "search_params": {
+    "location": "Sydney, NSW, Australia",
+    "business_types": [
+      "gyms",
+      "fitness clubs"
+    ],
+    "max_results": 60,
+    "city_or_zip": "Sydney NSW"
+  },
+  "filtering_thresholds": {
+    "max_posts_in_range": 40,
+    "months_range": 3,
+    "max_followers": 20000
+  },
+  "google_places": {
+    "api_key": "AIzaSyAkbp9EZpaD-Wq1e4MUI-llBMbN4Dsg8Qg"
+  },
+  "google_sheets": {
+    "sheet_id": "1z1CBOyoOIIC1U3bqgomhzUQvtDFMsz6ZcmbVSIAn2B0",
+    "range": "Sheet1!A1"
+  },
+  "apify": {
+    "enabled": true,
+    "token": "apify_api_q1rt0LCAUtBH5LUQOCOy843ni7ESY51Egxol"
+  }
+}
